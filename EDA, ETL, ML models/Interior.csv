@@ -1,0 +1,51 @@
+room_id,room_type,room_size,num_windows,ceiling_height,wall_color,flooring_type,furniture_style,lighting_quality,decor_budget,overall_design_score
+1,Living Room,250,4,9,Beige,Hardwood,Modern,4,5000,4.2
+2,Bedroom,180,2,8,Light Blue,Carpet,Traditional,3,3000,3.8
+3,Kitchen,300,3,10,White,Tile,Contemporary,5,7500,4.5
+4,Dining Room,150,2,9,Gray,Hardwood,Rustic,4,4000,4.1
+5,Home Office,120,1,8,Navy,Laminate,Industrial,3,2500,3.6
+6,Bathroom,100,1,8,Light Green,Tile,Minimalist,4,3000,4
+7,Living Room,280,3,9,Beige,Hardwood,Modern,5,6000,4.3
+8,Bedroom,220,2,8,Light Purple,Carpet,Traditional,4,4500,4.2
+9,Kitchen,350,4,10,Yellow,Tile,Contemporary,5,8000,4.7
+10,Dining Room,180,2,9,Dark Gray,Hardwood,Rustic,4,5000,4.4
+11,Home Office,150,1,8,Teal,Laminate,Industrial,3,3000,3.9
+12,Bathroom,80,1,8,Light Pink,Tile,Minimalist,4,2500,3.8
+13,Living Room,300,4,9,Beige,Hardwood,Modern,5,7000,4.6
+14,Bedroom,190,2,8,Light Yellow,Carpet,Traditional,4,4000,4
+15,Kitchen,280,3,10,Light Gray,Tile,Contemporary,5,6500,4.4
+16,Dining Room,160,2,9,Dark Blue,Hardwood,Rustic,4,4500,4.2
+17,Home Office,100,1,8,Green,Laminate,Industrial,3,2000,3.5
+18,Bathroom,90,1,8,Light Orange,Tile,Minimalist,4,2750,3.7
+19,Living Room,270,3,9,Beige,Hardwood,Modern,5,6250,4.5
+20,Bedroom,210,2,8,Light Red,Carpet,Traditional,4,4250,4.1
+21,Kitchen,320,4,10,Light Brown,Tile,Contemporary,5,7250,4.6
+22,Dining Room,170,2,9,Dark Green,Hardwood,Rustic,4,4750,4.3
+23,Home Office,130,1,8,Light Teal,Laminate,Industrial,3,2750,3.8
+24,Bathroom,110,1,8,Light Purple,Tile,Minimalist,4,3250,4.1
+25,Living Room,290,4,9,Beige,Hardwood,Modern,5,6750,4.7
+26,Living Room,310,5,10,Light Gray,Hardwood,Modern,5,8000,4.8
+27,Bedroom,230,3,9,Soft Pink,Carpet,Traditional,4,3500,4
+28,Kitchen,290,4,10,White,Tile,Contemporary,5,7000,4.6
+29,Dining Room,160,2,9,Beige,Hardwood,Rustic,4,4500,4.2
+30,Home Office,140,1,8,Light Green,Laminate,Industrial,3,2800,3.7
+31,Bathroom,110,1,8,Light Blue,Tile,Minimalist,4,3200,4.1
+32,Living Room,320,4,10,Light Yellow,Hardwood,Modern,5,8500,4.9
+33,Bedroom,200,2,8,Light Gray,Carpet,Traditional,4,4000,4.3
+34,Kitchen,310,3,10,Dark Gray,Tile,Contemporary,5,7500,4.7
+35,Dining Room,170,2,9,Light Purple,Hardwood,Rustic,4,4800,4.4
+36,Home Office,130,1,8,Teal,Laminate,Industrial,3,2900,3.8
+37,Bathroom,95,1,8,Peach,Tile,Minimalist,4,3000,3.9
+38,Living Room,330,5,10,Beige,Hardwood,Modern,5,9000,5
+39,Bedroom,240,3,9,Light Green,Carpet,Traditional,4,3700,4.2
+40,Kitchen,300,4,10,White,Tile,Contemporary,5,7200,4.5
+41,Dining Room,180,2,9,Gray,Hardwood,Rustic,4,4600,4.1
+42,Home Office,150,1,8,Navy,Laminate,Industrial,3,3100,3.6
+43,Bathroom,105,1,8,Light Pink,Tile,Minimalist,4,3300,4
+44,Living Room,340,4,10,Light Blue,Hardwood,Modern,5,9500,4.8
+45,Bedroom,220,2,8,Soft Yellow,Carpet,Traditional,4,3900,4.3
+46,Kitchen,320,3,10,Light Gray,Tile,Contemporary,5,7800,4.6
+47,Dining Room,190,2,9,Dark Green,Hardwood,Rustic,4,4700,4.5
+48,Home Office,160,1,8,Light Teal,Laminate,Industrial,3,3000,3.7
+49,Bathroom,100,1,8,Light Orange,Tile,Minimalist,4,3100,3.9
+50,Living Room,350,5,10,Beige,Hardwood,Modern,5,10000,5
